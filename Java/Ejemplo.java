@@ -19,7 +19,7 @@ public class Ejemplo{
         }
         rondas --;
         }
-        System.out.println("Has sacado " + valores);
+        System.out.println("Has sacado " + valores.toString());
 	}
 }
 
